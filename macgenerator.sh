@@ -38,5 +38,5 @@ $c "$1" -resize 256x256   "$ICONDIR/Icon-256.png"
 $c "$1" -resize 512x512 "$ICONDIR/Icon-256@2x.png"
 # Mac 512pt
 $c "$1" -resize 512x512  "$ICONDIR/Icon-512.png"
-$c "$1" -resize 1024x1024 "$ICONDIR/Icon-1024@2x.png"
+$c "$1" -resize 1024x1024 "$ICONDIR/Icon-512@2x.png"
 
